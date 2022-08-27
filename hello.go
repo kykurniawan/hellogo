@@ -1,5 +1,5 @@
 package hellogo
 
 func Hello() string {
-	return "Hello"
+	return "Hello World!"
 }
